@@ -7,7 +7,7 @@
 </head>
 <body>
 
-  <p>It is a website design, for adventure lovers.</p>
+  <p>It is a responsive website design, for adventure lovers.</p>
 <h2 id="built-with">Built With</h2>
   <ul>
     <li>HTML</li>
@@ -15,4 +15,4 @@
     <li>JavaScript</li>
   </ul>
 
-  <p>You can reach to Website, when you are click <a href="#">HERE</a>.</p>
+  <p>You can reach to Website, when you are click <a href="https://foradventurers.netlify.app/">HERE</a>.<p>
